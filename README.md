@@ -1,19 +1,7 @@
 # Supply Chain Analytics
 
-End-to-end analytics for inventory, demand, and supply-chain operations.
+Connects inventory, demand, and operations data so supply-chain decisions aren’t stuck in separate spreadsheets.
 
-## Problem
+Focus: clearer operational insight from end-to-end analytics workflows.
 
-Supply-chain data is spread across orders, inventory, and logistics signals that are hard to read as one system.
-
-## Approach
-
-Analytics workflows that clean, join, and model supply-chain data for operational insight.
-
-## Stack
-
-Python · analytics / optimization notebooks and scripts
-
-## Goal
-
-Clearer decisions on inventory and fulfillment.
+**Skills:** supply-chain analytics · Python · operations modeling
